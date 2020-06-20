@@ -3,7 +3,7 @@ The purpose for this analysis is to determine the relationship between Fares and
 
 ###Total Revenue by City Type
 
-https://github.com/swund283/PyBer_Analysis/blob/master/analysis/Sum_of_fares_by_city_type.png
+![Total Revenue by City Type](https://github.com/swund283/PyBer_Analysis/blob/master/analysis/Sum_of_fares_by_city_type.png)
 
 The data overall was very clean and easy to use.   The interpretation of the data I do feel provides a bit of challenge to compare the different city types to each other.  As Urban is such a large portion of the business and influences: # of rides, fare per ride, and total revenue.  I would consider creating separate reports that allow you to better understand each segment of the business by City Type; though you could consider just 2 segments to review the business; Urban on its own and Suburban and Rural combined.  As we are already breaking down the data by City Type I don’t feel this is necessary.  However, if we were to move more granularly into the data, I think 2 segments that are analyzed separately would make the most sense to better analyze and predict future patterns as the Urban customer seems to have different habits.
 
